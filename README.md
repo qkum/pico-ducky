@@ -26,7 +26,7 @@ Install and have your USB Rubber Ducky working in less than 5 minutes.
 
 3. Copy the downloaded `.uf2` file to the root of the Pico (`RPI-RP2`). The device will reboot and after a second or so, it will reconnect as `CIRCUITPY`.
 
-4. Download `adafruit-circuitpython-bundle-7.x-mpy-YYYYMMDD.zip` [here](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) and extract it outside the device.
+4. EDITED: Download `adafruit-circuitpython-bundle-7.x-mpy-YYYYMMDD.zip` [here](https://github.com/qkum/pico-ducky/blob/main/adafruit-circuitpython-raspberry_pi_pico-en_US-7.3.3.uf2) and extract it outside the device.
 
 5. Navigate to `lib` in the recently extracted folder and copy `adafruit_hid` to the `lib` folder on your Raspberry Pi Pico.
 
@@ -67,7 +67,7 @@ Copied from [Neradoc/Circuitpython_Keyboard_Layouts](https://github.com/Neradoc/
 
 #### How to use one of these layouts with the pico-ducky repository.
 
-**Go to the [latest release page](https://github.com/Neradoc/Circuitpython_Keyboard_Layouts/releases/latest), look if your language is in the list.**
+EDITED: **Go to the [latest release page](https://github.com/qkum/pico-ducky/blob/main/circuitpython-keyboard-layouts-7.x-mpy-20220902.zip), look if your language is in the list.**
 
 #### If your language/layout is in the bundle
 
